@@ -1,2 +1,2 @@
-# .github
+# Information
 Welcome to the BAUER GROUP Github Space...
